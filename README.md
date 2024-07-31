@@ -9,7 +9,8 @@ A simple repo for Career guidance
   
 ### Akshay
 - Prepare for FDA/SDA, SSC, RRB(Railway recruitment board), PDO, VA, PSI, PC
-- Start preparing after 3rd of degree, do not do any internship if not needed. 
+- Start preparing after 3rd of degree,
+
 ### Spandu
 - Prepare for NEET first
 - Then we will think later

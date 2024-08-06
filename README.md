@@ -6,9 +6,9 @@ A simple repo for Career guidance
 - Take the online/offline coaching for at-least 6 to 1 year in Bengaluru
 - Give some time to prepare for exams
 ### Sinchu
-- You have two options, one is Private job plus support your family financial and also Akshay for preparing government jobs
-- Another options is prepare for government jobs
-
+- You have two options, first option is Private job plus support your family financial and also Akshay for preparing government jobs
+- Second option is to prepare for government jobs
+- In my opinion, first option is better for you.
 #### Private job preparation
 - Build strong technical skills and soft skills to get good private jobs
 - Off-campus or on-campus

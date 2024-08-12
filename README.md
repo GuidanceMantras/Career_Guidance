@@ -13,8 +13,7 @@ A simple repo for Career guidance
 #### Private job preparation
 - Build strong technical skills and soft skills to get good private jobs
 - Off-campus or on-campus
-- you can also prepare for government exam while working 
-
+- you can 
 #### Government job preparation
 - Prepare for Government AE/EE/JE in both central and state department
 - Start preparing from after 3rd Year of Engineering, do not do any internship if not needed

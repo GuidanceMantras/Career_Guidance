@@ -7,6 +7,7 @@ A simple repo for Career guidance
 - Give some time to prepare for exams
 - Have a own study room
 - Else, look for government jobs in and around our area either on contract basis, or jobs in DDC, Apex Bank, KMF, BAMUL; MAMUL,, so you can give some money to get job
+- Use Ravi laptop for everything
 
 ### Sinchu
 - You have two options, first option is Private job plus support your family financial and also Akshay for preparing government jobs

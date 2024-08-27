@@ -35,3 +35,7 @@ A simple repo for Career guidance
 ### Gowri
 - 
 
+### Sangeetha
+- Study for competative government exams in Karnataka, while working
+- During free time while working, study competative exams books such as sparda spoorthi, spardathakka, sparda vijetha and other books
+- 
